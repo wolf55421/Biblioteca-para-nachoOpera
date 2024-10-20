@@ -1,0 +1,12 @@
+C:\Users\chema\source\repos\Integrando\bin\Debug\Integrando.exe.config
+C:\Users\chema\source\repos\Integrando\bin\Debug\Integrando.exe
+C:\Users\chema\source\repos\Integrando\bin\Debug\Integrando.pdb
+C:\Users\chema\source\repos\Integrando\bin\Debug\NachoOpera.dll
+C:\Users\chema\source\repos\Integrando\bin\Debug\NachoOpera.pdb
+C:\Users\chema\source\repos\Integrando\obj\Debug\Integrando.csproj.AssemblyReference.cache
+C:\Users\chema\source\repos\Integrando\obj\Debug\Integrando.Properties.Resources.resources
+C:\Users\chema\source\repos\Integrando\obj\Debug\Integrando.csproj.GenerateResource.cache
+C:\Users\chema\source\repos\Integrando\obj\Debug\Integrando.csproj.CoreCompileInputs.cache
+C:\Users\chema\source\repos\Integrando\obj\Debug\Integrando.csproj.Up2Date
+C:\Users\chema\source\repos\Integrando\obj\Debug\Integrando.exe
+C:\Users\chema\source\repos\Integrando\obj\Debug\Integrando.pdb
